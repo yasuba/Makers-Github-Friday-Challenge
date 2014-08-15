@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Branches allow you to create a new repo, independent of the master branch, but keeping the history from the master
