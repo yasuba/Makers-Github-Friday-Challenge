@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone allows you to copy the entire history of a project into your local files so you can edit them yourself to upload to a different branch
